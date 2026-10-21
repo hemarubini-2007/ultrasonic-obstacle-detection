@@ -1,5 +1,3 @@
-# ultrasonic-obstacle-detection
-
 # Ultrasonic Obstacle Detection System
 
 ## Project Overview
